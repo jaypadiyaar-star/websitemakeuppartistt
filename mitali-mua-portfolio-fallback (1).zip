@@ -1,0 +1,12 @@
+Mitali MUA Portfolio - Fallback Package
+Generated offline - for full project with real ZIP, go online and retry Download ZIP.
+
+This fallback contains file list and README.
+
+To get full ZIP:
+1. Go online
+2. Click Download ZIP again - it will load JSZip from https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
+3. Full project includes: package.json, vite.config, tailwind, src/*, public/images (fetched as blobs), api/*, vercel.json, netlify.toml
+
+--- README ---
+See deployment guide in app.
